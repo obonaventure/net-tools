@@ -88,6 +88,7 @@
 #include <sys/stat.h>
 #include <net/if.h>
 #include <dirent.h>
+#include <sys/types.h>
 
 #include "net-support.h"
 #include "pathnames.h"
